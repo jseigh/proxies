@@ -65,7 +65,7 @@ Options:
   -q --quiet less output (default false)
 ```
 
-###Output examples
+### Output examples
 ```
 $ ./proxytest -c 1000000 -n 8 -t all
 test         cpu time      (unsafe diff)     elapsed time  (unsafe diff)
